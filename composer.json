@@ -1,6 +1,6 @@
 {
-    "name": "digitalcloud/nova-address-field",
-    "description": "A Laravel Nova Address field.",
+    "name": "andrewturner/nova-address-field",
+    "description": "A Google Auto-Complete Address Field for Laravel Nova",
     "keywords": [
         "laravel",
         "nova",
